@@ -13,6 +13,7 @@ on:
         - android-11.0
         - android-10.0
         - android-9.0
+        - android-14.0
         - android-8.1
         - android-7.1
         - android-6.0
